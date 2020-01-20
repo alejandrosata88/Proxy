@@ -1,0 +1,7 @@
+C:\BOT\Cursos\Patrones\Proxy\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+C:\BOT\Cursos\Patrones\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+C:\BOT\Cursos\Patrones\Proxy\Proxy\bin\Debug\Proxy.exe.config
+C:\BOT\Cursos\Patrones\Proxy\Proxy\bin\Debug\Proxy.exe
+C:\BOT\Cursos\Patrones\Proxy\Proxy\bin\Debug\Proxy.pdb
+C:\BOT\Cursos\Patrones\Proxy\Proxy\obj\Debug\Proxy.exe
+C:\BOT\Cursos\Patrones\Proxy\Proxy\obj\Debug\Proxy.pdb
